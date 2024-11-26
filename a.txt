@@ -80,3 +80,10 @@ PULL command
 git pull origin main
 
 used to fetch and download content from a remote repo and immeiately update the local repo to match that content
+
+
+MERGE CONFLICTS
+
+an event that takes place when the GIT is unable to automatically resolve the differences in code between two commits
+
+we have to resolve the conflicts manually
