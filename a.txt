@@ -1,0 +1,35 @@
+GIT -> it is a version control system which is used to track changes in the code and do collobrative programming
+
+popular VCS providers are -> Github , Bitbucket , Gitlab
+
+you can create a new repo on github on the website
+then you can add readme.md file -> this si a markdown file which stores the project details
+
+CONFIGURING GIT
+
+git config enter the username and the email
+
+git config --global user.email "email"
+git config --global user.name "name"
+
+git config --list -> to list out the registerred credentials
+
+GIT COMMANDS
+
+CLONE -> git clone "https code"
+
+every git folder contains a hidden git file which can be seen by the ls -a command 
+
+every git file has a lifecycle (untracked -> unmodified -> modified -> staged)
+
+SATUS -> git status , we can check the current state of the file with this
+the new files have to be tracked and the modified files have to be commited
+
+ADD -> add new or changed files in your working directory to the git staging area
+git add [file name]
+
+COMMIT -> it is hte record of change
+git commit -m "some message"
+
+PUSH -> upload local repo content to remote repo
+git push origin main
