@@ -73,7 +73,7 @@ MERGING CODE
 git diff <branch name> (to compare commits, branches, files and more)
 git merge or CREATE A PR (to merge two branches)
 
-PR  we can create a pull request on github to merge branches 
+PR -> we can create a pull request on github to merge branches 
 
 PULL command
 
