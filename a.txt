@@ -102,3 +102,11 @@ git reset <commit hash>
 dit reset --hard <commit hash>
 
 git log - to check the previous git activity
+
+FORKING
+
+we can fork some remote repo which we want to work on in github. thet repo can be maintained by some other developers.
+then we can make changes in that repo, and create PR if we want them to be merged in the base repo
+
+fork is a rough copy of the repo 
+
